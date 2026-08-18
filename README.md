@@ -4,7 +4,7 @@ I'm a Computer Science and Financial Mathematics & Statistics student at the Uni
 
 I'm interested in building systems at the intersection of software engineering, machine learning, and quantitative computing.
 
-#### What I work on:
+### What I work on:
 
 - **Machine Learning & AI**: implementing and experimenting with ML/DL algorithms.
 - **Software Engineering**: backend systems, APIs, databases, distributed workflows, and cloud infrastructure
