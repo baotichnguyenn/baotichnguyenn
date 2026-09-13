@@ -8,5 +8,5 @@ I'm interested in building systems at the intersection of software engineering, 
 
 - **Machine Learning & AI**: implementing and experimenting with ML/DL algorithms.
 - **Software Engineering**: backend systems, APIs, databases, distributed workflows, and cloud infrastructure
-- **Algorithms & Mathematics**: algorithms, optimisation, statistics, and quantitative problem solving
+- **Algorithms & Mathematics**: algorithms, optimisation, statistics, and quantitative problem solving.
 
