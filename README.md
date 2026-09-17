@@ -1,4 +1,4 @@
-Hi, I'm Tich Bao Nguyen
+Hi, I'm Tich Bao Nguyen.
 
 I'm a Computer Science and Financial Mathematics & Statistics Major student at the University of Sydney, with a background in Applied AI and Analytics from Singapore .
 
